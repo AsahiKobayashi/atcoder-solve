@@ -15,7 +15,7 @@ public class Main {
          * AtCoder Beginners Contest 212 C問題 Reorder Cards
          * https://atcoder.jp/contests/abc213/tasks/abc213_c
          * 
-         * 座標、y座標独立に解いても問題ないので座標圧縮して終わり
+         * x座標、y座標独立に解いても問題ないので座標圧縮して終わり
          * O(NlogN)
          * 
          */
