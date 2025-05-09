@@ -1,1 +1,1 @@
-### AtCoder Beginners Contest 解放メモ用
+### AtCoder Beginners Contest 解法メモ用
